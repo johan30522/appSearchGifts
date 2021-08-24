@@ -1,0 +1,19 @@
+mejoras:
+
+integrar busqueda en campo input:
+https://www.npmjs.com/package/node-google-suggest-en
+agregar un copy en image clipbuard/download para transportarla a otra fuente
+
+
+
+utilidades:
+
+
+se sacan los gifts de esta api
+https://developers.giphy.com/docs/api/endpoint#trending
+
+animar imagenes con :
+https://animate.style/
+
+crear interfaces a partir de json:
+https://quicktype.io/
